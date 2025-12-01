@@ -1,6 +1,6 @@
 ## 🥔 **Potato Services**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/70d03a68-3daf-41df-a9d0-7044d2a065b8" width="30%">
+  <img src="https://github.com/user-attachments/assets/70d03a68-3daf-41df-a9d0-7044d2a065b8" width="20%">
 </p>
 
 <br>

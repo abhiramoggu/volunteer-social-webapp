@@ -1,5 +1,8 @@
 ## 🥔 **Potato Services**
-![Picture1](https://github.com/user-attachments/assets/70d03a68-3daf-41df-a9d0-7044d2a065b8)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/70d03a68-3daf-41df-a9d0-7044d2a065b8" width="70%">
+</p>
+
 <br>
 **Potato Services** offers a broad set of features designed to enhance the volunteer matching experience for both individuals and organizations.
 
